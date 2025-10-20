@@ -4,11 +4,11 @@
 
 ---
 
-## 📜 Histórico de Revisões
+## Histórico de Revisões
 
 | Data       | Versão | Descrição do Documento | Autor(es) |
 |-------------|--------|------------------------|------------|
-| 14/10/2025  | 1.0    | Criação do documento   | Bruna Leidiana Nascimento Patricio, Joana Elise Araújo Lopes, Jonata Barbosa, Matheus Barbosa Firmino de Souza |
+| 14/10/2025  | 1.0    | Criação do documento   | Anderson Sousa de Lima, Bruna Priscila Sousa, Felipe Cartaxo, Leidiana Nascimento Patricio, Matheus Barbosa Firmino de Souza |
 
 ---
 
