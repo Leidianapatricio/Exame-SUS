@@ -37,15 +37,14 @@ Exemplo: RF001, RNF001.
 
 ### Módulo 1 — Cadastro e Acesso  
 
-**[RF001]** — Como cidadão, quero realizar login no sistema utilizando **CPF** e **número do cartão SUS**, para acessar minhas informações de exames com segurança.  
+**[RF001]** — Como cidadão, quero realizar login no sistema utilizando **CPF** ou **número do cartão SUS**, para acessar minhas informações de exames com segurança.  
 
-**[RF002]** — Como cidadão, quero poder recuperar meu acesso caso esqueça minha senha, para garantir o uso contínuo do aplicativo.  
+**[RF002]** — Como cidadão, quero poder realizar meu próprio cadastramento no sistema, informando CPF, número do Cartão SUS e dados de contato, para obter acesso independente ao aplicativo.  
 
-**[RF003]** — Como cidadão, quero poder **realizar meu próprio cadastramento no sistema**, informando CPF, número do Cartão SUS e dados de contato, para obter acesso independente ao aplicativo.  
+**[RF003]** — Como profissional de saúde, quero poder cadastrar novos usuários vinculados ao SUS, garantindo que todos os cidadãos tenham acesso ao sistema. 
 
-**[RF004]** — Como profissional de saúde, quero poder cadastrar novos usuários vinculados ao SUS, garantindo que todos os cidadãos tenham acesso ao sistema.  
+**[RF004]** — Como administrador, quero poder gerenciar permissões de acesso, definindo quais usuários podem inserir, editar ou visualizar exames.  
 
-**[RF005]** — Como administrador, quero poder gerenciar permissões de acesso, definindo quais usuários podem inserir, editar ou visualizar exames.  
 
 ---
 
